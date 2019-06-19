@@ -29,7 +29,7 @@ define( 'DB_USER', 'deploy' );
 define( 'DB_PASSWORD', 'test123' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '172.31.8.248' );
+define( 'DB_HOST', 'db1.logchart.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
